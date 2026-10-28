@@ -30,7 +30,7 @@ A hands-on API security training platform for bug bounty hunters, pentesters, an
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Hotwrist/APIPwnLab.git
+git clone https://github.com/stodachon/APIPwnLab.git
 cd APIPwnLab
 ```
 
